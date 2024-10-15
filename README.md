@@ -1,6 +1,6 @@
 ### Microservices Deployment on Kubernetes with Load Testing
     OS: VMware Workstation 17 / Ubuntu 24.04.1 live server
-    Language: Python 3.8.10
+    Language: Python 3.12.6, java 21
     Tools: Docker, Kubernetes, Helm, Apache JMeter, Prometheus, Grafana, ELK Stack (more can be added)
     
 ### Project Description
