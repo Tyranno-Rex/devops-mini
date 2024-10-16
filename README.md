@@ -2,6 +2,8 @@
     OS: VMware Workstation 17 / Ubuntu 24.04.1 live server
     Language: Python 3.12.6, java 21
     Tools: Docker, Kubernetes, Helm, Apache JMeter, Prometheus, Grafana, ELK Stack (more can be added)
+    architecture: https://o365khu-my.sharepoint.com/:u:/g/personal/silvercastle_office_khu_ac_kr/EQ1j6UrRMzVHgFFheqCZMMQBfWKYVm7kbMm7_9OBk1lItA?e=CyQ1kL
+    
     
 ### Project Description
     - Develop a microservices-based application with three services (Service A, Service B, Service C).
